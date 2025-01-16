@@ -1,5 +1,22 @@
 ## Лабораторная работа №1 "Установка Docker и Minikube, мой первый манифест."
 
+University: [ITMO University](https://itmo.ru/ru/)
+
+Faculty: [FICT](https://fict.itmo.ru)
+
+Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)
+
+Year: 2023/2024
+
+Group: K4112
+
+Author: Temkin Maksim Aleksandrovich
+
+Lab: Lab2
+
+Date of create: 08.12.2024
+
+Date of finished: 16.01.2024
 
 **1. Развернуть minikube cluster**
 
