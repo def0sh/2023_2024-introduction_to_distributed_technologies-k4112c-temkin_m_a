@@ -14,9 +14,9 @@ Author: Temkin Maksim Aleksandrovich
 
 Lab: Lab2
 
-Date of create: 12.12.2024
+Date of create: 08.12.2024
 
-Date of finished: 12.12.2024
+Date of finished: 16.01.2024
 
 **1. Развернуть minikube cluster**
 ```
